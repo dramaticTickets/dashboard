@@ -15,7 +15,7 @@ layout: default
     - 6.1 [Usecase Diagram](documents/8_use_case)（用例图）
     - 6.2 [Use Cases](documents/8_use_case)（用例+活动图）
     - 6.3 [Domian Model](documents/10_domain_model)（领域模型）
-    - 6.4 [State Model](document/11_state_model)（状态模型）
+    - 6.4 [State Model](documents/11_state_model)（状态模型）
     - **6.5 System Sequence Diagram（功能模型）**
 * 7、Design（设计）
     - 7.1 UI design
