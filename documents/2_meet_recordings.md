@@ -8,7 +8,7 @@ title: 会议记录
 ## 第一次会议记要
 
 ### 会议目标：制定产品方针、初步定义产品核心业务、初步组建团队
-### 会议时间：2017.3.23
+### 会议时间：2018.3.23
 ### 任务一：制定产品方针
 * 确定产品类型：电影票售票app
 * 产品/项目名称：Dramatic-tickets
@@ -22,7 +22,7 @@ title: 会议记录
 
 ### 任务三：初步组建团队
 * 讨论项目模块
-* 讨论成员分工：[成员分工](https://github.com/dramaticTickets/dramatic-tickets/blob/master/documents/1_responsibility_assignment.md)
+* 讨论成员分工：成员分工
 * 讨论初次迭代周期及任务。
 
 ### 思维导图如图：
@@ -32,7 +32,7 @@ title: 会议记录
 ## 第二次会议记录
 ### 会议目标：定下初次迭代周期目标
 
-### 会议时间：2017.3.30
+### 会议时间：2018.3.30
 
 ### 任务一：初次迭代周期
 * 确定迭代周期：三周为一周期
@@ -56,11 +56,11 @@ title: 会议记录
 # Iteration 2
 ## 第三次会议记录
 ### 会议目标：完善需求，设计UI，进一步学习开发知识
-### 会议时间：2017.4.10
+### 会议时间：2018.4.10
 ### 任务一：完成主要UI界面的设计
 * 具体讨论并确定即将实现的功能和模块
 * 完成用例UI设计
-  * [UI界面设计]((https://github.com/dramaticTickets/dramatic-tickets/blob/master/documents/7_Design.md))如下图：
+  * UI界面设计如下图：
     ![](https://github.com/dramaticTickets/dramatic-tickets/raw/master/pictures/%E7%99%BB%E9%99%86%E6%B3%A8%E5%86%8C.jpg?raw=true)
 ### 任务二：完成部分需求规格说明
 * 完善需求，绘制用例图
