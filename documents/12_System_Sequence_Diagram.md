@@ -14,16 +14,18 @@
 
 ## 2. 通过查找电影来购票
 
-<img src="https://github.com/dramaticTickets/dramatic-tickets/blob/master/pictures/System%20Sequence%20Diagrams%202.png"  width="80%"  />
+![](https://github.com/dramaticTickets/dramatic-tickets/blob/master/pictures/System%20Sequence%20Diagrams%202.png)
 
 ## 3. 通过查找电影院来购票
+
 <img alt="查找影院以购票" src="https://raw.githubusercontent.com/Cicicigar/markdown_pics/master/顺序图3.PNG"  width="100%" />
 
 ## 4. 买好票后，换同一场次的座位
 
-<img alt="换同一场次座位系统顺序图" src="https://github.com/dramaticTickets/dramatic-tickets/blob/master/pictures/system_sequence_diagram_%E6%9B%B4%E6%8D%A2%E5%BA%A7%E4%BD%8D.png"  width="100%" />
+![换同一场次座位系统顺序图](https://github.com/dramaticTickets/dramatic-tickets/blob/master/pictures/system_sequence_diagram_%E6%9B%B4%E6%8D%A2%E5%BA%A7%E4%BD%8D.png)
 
 ## 5. 买票查看历史记录
+
 <img alt="买票查看历史记录" src="https://github.com/zichang06/markdownPics/blob/master/week10.png?raw=true"  width="100%" />
 
 ## 6.查看将要开场的电影票
