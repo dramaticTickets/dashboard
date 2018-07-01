@@ -24,12 +24,15 @@ layout: default
         - 7.2.1 [用户及权限系统数据库设计](documents/7_2_Design)
         - 7.2.2 XX子系统数据课设计 
         - 7.2.x [第三方数据评审结果](https://github.com/dramaticTickets/dramatic-tickets/issues/2)
-    - [7.3 API 设计](documents/7_3_Design)
+    - 7.3 [API 设计](documents/7_3_Design)
+    - 7.4 [Software Architecture Document](documents/14_Software_Architecture_Document)
+    - 7.5 [用例设计](documents/16_ECB_sequence%20class_diagram)
 * 8、生产规范与指南
     - 8.1 [XX 代码规范](documents/9_code_style)
     - 8.2 [REST API 设计规范](documents/7_3_Design)
+    - 8.3 [框架目录设计与逻辑架构与 ECB 的关系](documents/15_Catalog_design_Logical_architecture_ECB)
+    - 8.4 [部署项目的Readme](https://github.com/dramaticTickets/dramatic-tickets/)
 * 9、[Supplementary Requirements](documents/13_Supplementary_Specification)
-* 10、[Software Architecture Document](documents/14_Software_Architecture_Document)
 * X1 meet_recording
     - [inception meeting (2018/3/23, 2018/3/30, 2018/4/10)](documents/2_meet_recordings)
 * X2 Tech/Work Report
@@ -39,9 +42,15 @@ layout: default
     - [15331027-工具学习使用](documents/Tech_Work_Report/15331027_%E9%99%88%E7%A5%BA%E5%8D%8E_%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95)
     - [15331296-个人学习报告](documents/Tech_Work_Report/15331296_%E7%8E%8B%E5%87%8C%E9%94%8B_%E6%8A%80%E6%9C%AF%E5%AD%A6%E4%B9%A0%E6%8A%A5%E5%91%8A)
     - [15331010-个人学习报告](https://cicicigar.github.io/2018/04/14/SpringMVC学习报告/)
+* X3 FInal Report
+    - [15331009-FinalReport](https://zichang06.github.io/2018/06/29/Final_Report/#more)
+    - [15331048-FinalReport](https://github.com/dramaticTickets/dramatic-tickets/blob/master/documents/Final%20Report/15331048_Final%20Report.md)
+    - [15331010-FinalReport](https://cicicigar.github.io/2018/06/30/System-s-Analysis-and-Design-FinalReport/)
+    - [15331026-FinalReport](https://blog.csdn.net/sysu_cn/article/details/80868173)
+    - [15331027-FinalReport](https://blog.csdn.net/SYSU_Chan/article/details/80869600)
+    - [15331034-FinalReport](https://github.com/dramaticTickets/dramatic-tickets/blob/master/documents/Final%20Report/15331034_Final_Report.md)
+    - [15331296-FinalReport](https://blog.csdn.net/a2487304484/article/details/80871414)
 * XX 建模练习
-
-
     - XX1 [饿了么外卖应用](documents/modeling_training/1_饿了么外卖app)
     - XX2 [建模要求](documents/modeling_training/2_建模要求)
     - XX3 [建模者答案与评价](documents/modeling_training/3_部分答案及评价)

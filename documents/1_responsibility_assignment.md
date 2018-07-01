@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 数据库设计
+title: 团队信息
 ---
 
 # 团队信息&分工
