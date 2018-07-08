@@ -4,7 +4,7 @@ layout: default
 
 # [](#TOC)目录
 
-&nbsp;&nbsp; 
+&nbsp;&nbsp; [Android安装包下载](documents/Dramatic.apk)
 
 * 1、[About](ABOUT)（项目规划）
 * 2、[Team profile](documents/1_responsibility_assignment)（团队组建）
